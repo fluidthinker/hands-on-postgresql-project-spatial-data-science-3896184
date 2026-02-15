@@ -3,7 +3,7 @@
 	"name": "Python 3 & PostgreSQL",
 	"dockerComposeFile": "docker-compose.yml",
 	"service": "app",
-	"workspaceFolder": "/workspace",
+	"workspaceFolder": "/workspaces/hands-on-postgresql-project-spatial-data-science-3896184",
 	// Configure tool-specific properties.
 	"customizations": {
 		// Configure properties specific to VS Code.
